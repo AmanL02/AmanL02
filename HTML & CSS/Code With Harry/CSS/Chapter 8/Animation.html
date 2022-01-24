@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+    <style>
+        *{
+            margin: 0;padding: 0;
+        }
+        .container{
+            height: 100vh;
+            width: 100vw;
+            background-color: rebeccapurple;
+        }
+        .box1{
+            background-color: yellow;
+            height: 150px;
+            width: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            animation-name: Anime;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate-reverse;
+        }
+        @keyframes Anime {
+            from{
+                width: 150px;
+            }
+            to{
+                width: 600px;
+                height: 300px;
+            }
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box1">
+            This is my First Animation 
+        </div>
+        <img src="1.jpg" alt="" height="200px">
+    </div>
+</body>
+</html>

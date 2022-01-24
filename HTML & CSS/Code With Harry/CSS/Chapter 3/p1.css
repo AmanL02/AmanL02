@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: orangered;
+    color: white;
+    border: 5px Solid black ;
+}
+.content{
+    background-color: chartreuse;
+    color: rgb(221, 19, 157);
+    height: 250px;
+    padding: 50px 20px;
+    border: 50px solid orangered;
+    margin: 50px;
+    box-sizing: content-box;
+}
+footer{
+    background-color: cyan;
+    text-align: center;
+    padding: 50px 20px;
+    border: 5px solid chartreuse;
+    margin: 20px;
+}

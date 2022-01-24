@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 8 Q1</title>
+    <style>
+        *{
+            padding: 0;margin: 0;
+        }
+        header{
+            background-color: black;
+            height: 15vh;
+        }
+        main{
+            background-color: red;
+            height: 82vh;
+        }
+        .progress{
+            background-color: green;
+            height: 3vh;
+            animation: load 2s ease-in-out 1;
+        }
+        @keyframes load {
+            0%{
+                width: 0vw;
+            }
+            50%{
+                width: 60vw;
+            }
+            100%{
+                width: 100vw;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="progress"></div>
+    <header></header>
+    <main></main>
+</body>
+</html>

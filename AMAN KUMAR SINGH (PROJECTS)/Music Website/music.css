@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+*{
+    padding: 0;margin: 0;
+}
+.container{
+    font-family: 'PT Sans', sans-serif;
+}
+h1{
+    text-align: center;
+}
+nav{
+    list-style-type: none;
+    background-color: #333;
+    color: white;
+    height: 48px;
+    padding: 7px;
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: large;
+    cursor: pointer;
+}
+.box1{
+    color: white;
+    background-color: black;
+    height: 500px;
+}
+.box1 h1{
+    padding: 34px;
+    font-size: 54px;
+}
+.box1 h2{
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+}
+.box1 p{
+    text-align: center;
+    font-size: 21px;
+    padding: 115px;
+}
+.box2{
+    background-color: #252529;
+    color: white;
+}
+.box2 h1{
+    padding: 34px;
+    font-size: 54px;
+}
+.box2 h2{
+    text-align: center;
+    font-size: 35px;
+}
+.box2 p{
+    text-align: center;
+    font-size: 19px;
+    padding:23px;
+}
+.A1{
+    text-align: center;
+    /* cursor: pointer; */
+    /* color: red; */
+    /* background-color: red */
+    /* display: inline-block; */
+}
+.dad{
+    cursor: pointer;
+}
+.box3{
+    font-family: 'PT Sans', sans-serif;
+    background-color: #f4f4f4;
+}
+.box3 h1{
+    font-size: 2rem;
+    padding: 45px;
+    font-weight: bold;
+}
+.box3 p{
+    text-align: center;
+    font-size: 19px;
+    padding:23px;
+}
+.A2{
+    text-align: center;
+    padding: 20px;
+    /* cursor: pointer; */
+}
+.mom{
+    cursor: pointer;
+}
+.x{
+    text-align: center;
+}
+.box4{
+    background-image: url(E.jpeg);
+    color: white;
+    height: 500px;
+}
+.box4 h1{
+    padding: 135px;
+    font-size: 2.5rem;
+}
+.box4 p{
+    text-align: center;
+    font-size: 24px;
+    /* padding:23px; */
+}
+.box5{
+    display: flex;
+    flex-direction: row;
+}

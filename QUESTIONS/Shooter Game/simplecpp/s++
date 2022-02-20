@@ -1,0 +1,2 @@
+#!/bin/sh -x
+g++ $@ -Wall /c/Users/Aman Kumar Singh/Downloads/simplecpp/lib/libsprite.a

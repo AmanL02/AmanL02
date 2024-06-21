@@ -5,6 +5,9 @@
   <a href="https://leetcode.com/AmanL02/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/9a05283c-991d-4dd3-896a-cfdb76e6f484">
+    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </div>
 
 ###

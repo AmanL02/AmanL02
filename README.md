@@ -32,11 +32,7 @@
 <p align="left">🌱 I’m currently learning NLP<br><br>📫 How to reach me amansingh28002@outlook.com</p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-<p><br><br></p>
+<p></p>
 
 <h1></h1>
 <div align="center">
